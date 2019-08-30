@@ -1,0 +1,7 @@
+{
+    "name": "LightBIT",
+    "symbol": "LITB",
+    "algorithm": "yespowerlitb",
+    "blockTime": 60,
+    "txfee": 0.0001
+}
